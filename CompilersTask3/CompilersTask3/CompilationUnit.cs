@@ -4,6 +4,7 @@ namespace CompilersTask3
 {
     public class CompilationUnit
     {
-        Imports imp = new Imports();
+        private Imports _imports;
+        private ClassDeclarations _classDeclarations;
     }
 }

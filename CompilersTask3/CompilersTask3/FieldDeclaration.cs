@@ -6,5 +6,6 @@
         private Staticness staticness;
         private Type type;
         private Identifier identifier;
+        private Delimeter _delimeter;
     }
 }

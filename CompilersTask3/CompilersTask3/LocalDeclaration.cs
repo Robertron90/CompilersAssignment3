@@ -4,5 +4,6 @@
     {
         private Type _type;
         private Identifier _identifier;
+        private Delimeter _delimeter;
     }
 }

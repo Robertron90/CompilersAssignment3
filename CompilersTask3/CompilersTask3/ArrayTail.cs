@@ -5,6 +5,6 @@ namespace CompilersTask3
 {
     public class ArrayTail
     {
-        private List<String> limter;
+        private List<Delimeter> _delimeters;
     }
 }

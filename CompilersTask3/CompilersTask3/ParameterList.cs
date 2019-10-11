@@ -5,5 +5,6 @@ namespace CompilersTask3
     public class ParameterList
     {
         private List<Parameter> _parameters;
+        private Delimeter _delimeter;
     }
 }

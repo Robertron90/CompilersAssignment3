@@ -13,13 +13,17 @@
         <e p="Block.cs" t="Include" />
         <e p="Body.cs" t="Include" />
         <e p="CallStatement.cs" t="Include" />
+        <e p="ClassBody.cs" t="Include" />
         <e p="ClassDeclaration.cs" t="Include" />
         <e p="ClassDeclarations.cs" t="Include" />
+        <e p="ClassMember.cs" t="Include" />
+        <e p="ClassMembers.cs" t="Include" />
         <e p="CompilationUnit.cs" t="Include" />
         <e p="CompilersTask3.csproj" t="IncludeRecursive" />
         <e p="CompoundName.cs" t="Include" />
         <e p="Delimeter.cs" t="Include" />
         <e p="Expression.cs" t="Include" />
+        <e p="Extension.cs" t="Include" />
         <e p="Factor.cs" t="Include" />
         <e p="Factors.cs" t="Include" />
         <e p="FieldDeclaration.cs" t="Include" />
@@ -54,6 +58,7 @@
         <e p="Statements.cs" t="Include" />
         <e p="Staticness.cs" t="Include" />
         <e p="Term.cs" t="Include" />
+        <e p="Terms.cs" t="Include" />
         <e p="Type.cs" t="Include" />
         <e p="Visibility.cs" t="Include" />
         <e p="WhileStatement.cs" t="Include" />

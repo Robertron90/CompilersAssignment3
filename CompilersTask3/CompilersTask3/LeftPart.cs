@@ -4,7 +4,7 @@ namespace CompilersTask3
 {
     public class LeftPart
     {
-        private List<CompoundName> _compoundNames;
+        private CompoundName _compoundName;
         private Expression _expression;
         private Delimeter _delimeter;
 

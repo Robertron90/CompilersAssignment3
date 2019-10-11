@@ -2,6 +2,10 @@
 {
     public class Import
     {
-        private string identifier;
+        private Identifier _identifier;
+        private Keyword _keyword;
+        private Delimeter _delimeter;
+
+
     }
 }

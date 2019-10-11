@@ -7,5 +7,6 @@ namespace CompilersTask3
         private LeftPart _leftPart;
         private Operator _operator;
         private Expression _expression;
+        private Delimeter _delimeter;
     }
 }

@@ -5,6 +5,6 @@ namespace CompilersTask3
 {
     public class Staticness
     {
-        private List<String> checking;
+        private List<Keyword> checking;
     }
 }
