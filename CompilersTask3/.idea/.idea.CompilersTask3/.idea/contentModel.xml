@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tremi\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tremi\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CompilersTask3.548734716.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tremi\RiderProjects\CompilersTask3" t="IncludeFlat">
+      <e p="CompilersTask3" t="IncludeRecursive">
+        <e p="ArrayTail.cs" t="Include" />
+        <e p="Assignment.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Body.cs" t="Include" />
+        <e p="ClassDeclaration.cs" t="Include" />
+        <e p="ClassDeclarations.cs" t="Include" />
+        <e p="CompilationUnit.cs" t="Include" />
+        <e p="CompilersTask3.csproj" t="IncludeRecursive" />
+        <e p="CompoundName.cs" t="Include" />
+        <e p="Delimeter.cs" t="Include" />
+        <e p="FieldDeclaration.cs" t="Include" />
+        <e p="Identifier.cs" t="Include" />
+        <e p="Import.cs" t="Include" />
+        <e p="Imports.cs" t="Include" />
+        <e p="Int.cs" t="Include" />
+        <e p="Keyword.cs" t="Include" />
+        <e p="LocalDeclaration.cs" t="Include" />
+        <e p="LocalDeclarations.cs" t="Include" />
+        <e p="MethodDeclaration.cs" t="Include" />
+        <e p="MethodType.cs" t="Include" />
+        <e p="MultiSign.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Parameter.cs" t="Include" />
+        <e p="ParameterList.cs" t="Include" />
+        <e p="Parameters.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Real.cs" t="Include" />
+        <e p="Statement.cs" t="Include" />
+        <e p="Statements.cs" t="Include" />
+        <e p="Staticness.cs" t="Include" />
+        <e p="Type.cs" t="Include" />
+        <e p="Visibility.cs" t="Include" />
+      </e>
+      <e p="CompilersTask3.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
