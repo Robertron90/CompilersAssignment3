@@ -46,6 +46,7 @@
     <Compile Include="CompilationUnit.cs" />
     <Compile Include="CompoundName.cs" />
     <Compile Include="Delimeter.cs" />
+    <Compile Include="Expression.cs" />
     <Compile Include="FieldDeclaration.cs" />
     <Compile Include="Identifier.cs" />
     <Compile Include="Import.cs" />

@@ -15,6 +15,7 @@
         <e p="CompilersTask3.csproj" t="IncludeRecursive" />
         <e p="CompoundName.cs" t="Include" />
         <e p="Delimeter.cs" t="Include" />
+        <e p="Expression.cs" t="Include" />
         <e p="FieldDeclaration.cs" t="Include" />
         <e p="Identifier.cs" t="Include" />
         <e p="Import.cs" t="Include" />
