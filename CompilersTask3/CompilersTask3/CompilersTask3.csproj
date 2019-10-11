@@ -38,6 +38,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddSign.cs" />
     <Compile Include="ArrayTail.cs" />
     <Compile Include="Assignment.cs" />
     <Compile Include="Body.cs" />
@@ -54,17 +55,21 @@
     <Compile Include="Import.cs" />
     <Compile Include="Imports.cs" />
     <Compile Include="Keyword.cs" />
+    <Compile Include="LeftPart.cs" />
     <Compile Include="LocalDeclaration.cs" />
     <Compile Include="LocalDeclarations.cs" />
     <Compile Include="MethodDeclaration.cs" />
     <Compile Include="MethodType.cs" />
     <Compile Include="MultiSign.cs" />
+    <Compile Include="NewType.cs" />
+    <Compile Include="Number.cs" />
     <Compile Include="Operator.cs" />
     <Compile Include="Parameter.cs" />
     <Compile Include="ParameterList.cs" />
     <Compile Include="Parameters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RealNumber.cs" />
     <Compile Include="Statement.cs" />
     <Compile Include="Statements.cs" />
     <Compile Include="Staticness.cs" />

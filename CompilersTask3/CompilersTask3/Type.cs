@@ -2,9 +2,8 @@
 {
     public class Type
     {
+        private Keyword _keyword;
         private Identifier id;
-        private Real _real;
-        private Int number1;
         private ArrayTail _tail;
 
     }

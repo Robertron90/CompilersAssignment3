@@ -5,6 +5,7 @@
     <e p="C:\Users\tremi\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CompilersTask3.548734716.00" t="ExcludeRecursive" />
     <e p="C:\Users\tremi\RiderProjects\CompilersTask3" t="IncludeFlat">
       <e p="CompilersTask3" t="IncludeRecursive">
+        <e p="AddSign.cs" t="Include" />
         <e p="ArrayTail.cs" t="Include" />
         <e p="Assignment.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -23,11 +24,14 @@
         <e p="Import.cs" t="Include" />
         <e p="Imports.cs" t="Include" />
         <e p="Keyword.cs" t="Include" />
+        <e p="LeftPart.cs" t="Include" />
         <e p="LocalDeclaration.cs" t="Include" />
         <e p="LocalDeclarations.cs" t="Include" />
         <e p="MethodDeclaration.cs" t="Include" />
         <e p="MethodType.cs" t="Include" />
         <e p="MultiSign.cs" t="Include" />
+        <e p="NewType.cs" t="Include" />
+        <e p="Number.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Operator.cs" t="Include" />
         <e p="Parameter.cs" t="Include" />
@@ -37,6 +41,7 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="RealNumber.cs" t="Include" />
         <e p="Statement.cs" t="Include" />
         <e p="Statements.cs" t="Include" />
         <e p="Staticness.cs" t="Include" />
