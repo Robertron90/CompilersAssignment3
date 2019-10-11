@@ -2,6 +2,6 @@
 {
     public class MultiSign
     {
-        private string opSign;
+        private Operator _operator;
     }
 }
