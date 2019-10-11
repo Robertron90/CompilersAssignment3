@@ -6,10 +6,13 @@
     <e p="C:\Users\tremi\RiderProjects\CompilersTask3" t="IncludeFlat">
       <e p="CompilersTask3" t="IncludeRecursive">
         <e p="AddSign.cs" t="Include" />
+        <e p="ArgumentList.cs" t="Include" />
         <e p="ArrayTail.cs" t="Include" />
         <e p="Assignment.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Block.cs" t="Include" />
         <e p="Body.cs" t="Include" />
+        <e p="CallStatement.cs" t="Include" />
         <e p="ClassDeclaration.cs" t="Include" />
         <e p="ClassDeclarations.cs" t="Include" />
         <e p="CompilationUnit.cs" t="Include" />
@@ -21,6 +24,7 @@
         <e p="Factors.cs" t="Include" />
         <e p="FieldDeclaration.cs" t="Include" />
         <e p="Identifier.cs" t="Include" />
+        <e p="IfStatement.cs" t="Include" />
         <e p="Import.cs" t="Include" />
         <e p="Imports.cs" t="Include" />
         <e p="Keyword.cs" t="Include" />
@@ -37,17 +41,22 @@
         <e p="Parameter.cs" t="Include" />
         <e p="ParameterList.cs" t="Include" />
         <e p="Parameters.cs" t="Include" />
+        <e p="PrintStatement.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="RealNumber.cs" t="Include" />
+        <e p="Relation.cs" t="Include" />
+        <e p="RelationalOperator.cs" t="Include" />
+        <e p="ReturnStatement.cs" t="Include" />
         <e p="Statement.cs" t="Include" />
         <e p="Statements.cs" t="Include" />
         <e p="Staticness.cs" t="Include" />
         <e p="Term.cs" t="Include" />
         <e p="Type.cs" t="Include" />
         <e p="Visibility.cs" t="Include" />
+        <e p="WhileStatement.cs" t="Include" />
       </e>
       <e p="CompilersTask3.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
